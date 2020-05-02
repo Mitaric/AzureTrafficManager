@@ -8,7 +8,7 @@
 
 The Azure_Traffic_Manager.json template creates an Azure Traffic Manager Profile and two Traffic Manager Endpoints configured in a Performance based configuration.  The two Traffic Manager Endpoints are the Primary and Secondary Region 'HelloWorld' App Services deployed in previous deployments.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMitaric%2FPi-Hole-on-Azure%2Fmaster%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FMitaric%2FAzureTrafficManager%2Fmaster%2Fazuredeploy.json)
 
 # Contributing
 
