@@ -46,8 +46,8 @@
         }
     },
     "variables": {
-        "primaryRegionWebAppRepoURL": "https://github.com/Mitaric/AzureTrafficManager/eastus",
-        "secondaryRegionWebAppRepoURL": "https://github.com/Mitaric/AzureTrafficManager/westus",
+        "primaryRegionWebAppRepoURL": "https://github.com/Mitaric/AzureTrafficManager/tree/master/eastus",
+        "secondaryRegionWebAppRepoURL": "https://github.com/Mitaric/AzureTrafficManager/tree/master/westus",
         "primaryRegionEndpointName": "HelloWorldEUS",
         "secondaryRegionEndpointName": "HelloWorldWUS"
     },
