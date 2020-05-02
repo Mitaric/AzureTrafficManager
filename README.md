@@ -2,6 +2,8 @@
 
 ## Documentation
 
+- [Azure App Service Plan Documentation](https://docs.microsoft.com/en-us/azure/app-service/overview-hosting-plans "Azure App Service Plan Documentation")
+- [Azure App Service Documentation](https://docs.microsoft.com/en-us/azure/app-service/ "Azure App Service  Documentation")
 - [Azure Traffic Manager Documentation](https://docs.microsoft.com/en-us/azure/traffic-manager/ "Azure Traffic Manager Documentation")
 
 ## Description
