@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "primaryRegionAppServicePlanName": {
+            "value": "GEN-UNIQUE"
+        },
+        "secondaryRegionAppServicePlanName": {
+            "value": "GEN-UNIQUE"
+        },
+        "primaryRegionWebAppName": {
+            "value": "GEN-UNIQUE"
+        },
+        "secondaryRegionWebAppName": {
+            "value": "GEN-UNIQUE"
+        },
+        "trafficManagerProfileName": {
+            "value": "GEN-UNIQUE"
+        },
+        "trafficManagerProfileDNSName": {
+            "value": "GEN-UNIQUE"
+        }
+    }
+}
